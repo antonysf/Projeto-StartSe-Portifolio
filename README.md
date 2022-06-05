@@ -8,6 +8,8 @@ Projeto em HTML com CSS orientado pela StartSe Tech Academy
 Esse projeto foi feito com a supervisão da StartSe Tech Academy com o objetivo de estimular a criatividade dos devs para realização do portifolio e usa-lo futuramente como uma pagina de apresentação pessoal.
 ## Logo abaixo tem um link de derecionamento do projeto
 
+https://antonysf.github.io/Projeto-StartSe-Portifolio/ 
+
 # Tecnologias utilizadas
 - HTML / CSS 
 
