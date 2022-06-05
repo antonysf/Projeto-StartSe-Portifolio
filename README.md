@@ -1,7 +1,6 @@
-# Big Game Survey 
+# Projeto-StartSe-Portifolio
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/antonysf/Projeto-StartSe-Portifolio/blob/main/licence) 
 
-# Projeto-StartSe-Portifolio
 Projeto em HTML com CSS -  StartSe Tech Academy
 
 # Sobre o projeto
